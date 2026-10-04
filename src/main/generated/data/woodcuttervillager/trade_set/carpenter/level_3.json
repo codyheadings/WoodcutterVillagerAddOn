@@ -1,0 +1,5 @@
+{
+  "amount": 2.0,
+  "random_sequence": "woodcuttervillager:trade_set/carpenter/level_3",
+  "trades": "#woodcuttervillager:carpenter/level_3"
+}

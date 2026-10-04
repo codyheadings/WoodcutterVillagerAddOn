@@ -1,0 +1,12 @@
+{
+  "gives": {
+    "id": "minecraft:armor_stand"
+  },
+  "max_uses": 6.0,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 2.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 6.0
+}

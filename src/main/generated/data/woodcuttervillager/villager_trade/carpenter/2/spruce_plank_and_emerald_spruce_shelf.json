@@ -1,0 +1,28 @@
+{
+  "additional_wants": {
+    "count": 6.0,
+    "id": "minecraft:spruce_planks"
+  },
+  "gives": {
+    "id": "minecraft:spruce_log"
+  },
+  "max_uses": 12.0,
+  "merchant_predicate": {
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "minecraft:predicates": {
+        "minecraft:villager/variant": [
+          "minecraft:taiga",
+          "minecraft:snow"
+        ]
+      }
+    }
+  },
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 2.0,
+    "id": "minecraft:emerald"
+  },
+  "xp": 8.0
+}
